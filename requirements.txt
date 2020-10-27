@@ -13,7 +13,7 @@ click==6.7
 codegen==1.0
 cognitive-face==1.4.2
 command-not-found==0.3
-cryptography==2.1.4
+cryptography==3.2
 cupshelpers==1.0
 cycler==0.10.0
 defer==1.0.6
